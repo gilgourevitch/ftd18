@@ -1,0 +1,7 @@
+classid,classname,nblinescovered,nblinesuncovered,coverage,progress
+01p1t00000BVxaAAAT,TrailLoop,4,5,44%,[####      ]
+01p1t00000BVxzHAAT,AccountManager,6,0,100%,[##########]
+01p1t00000BVxzRAAT,AccountProcessor,9,0,100%,[##########]
+01p1t00000BVxv4AAD,AccountHandler,0,0,0,[          ]
+01p1t00000BVy3jAAD,AccountUtils,2,4,33%,[###       ]
+01p1t00000BVxn0AAD,AccountController,0,0,0,[          ]
